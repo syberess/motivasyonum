@@ -1,0 +1,234 @@
+[
+    {
+        "tarih": "2025-07-11",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-12",
+        "duygu": "Negatif"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Negatif"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Negatif"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-13",
+        "duygu": "Girdi boş!"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Negatif', np.float32(0.99261194))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Negatif', np.float32(0.99261194))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Negatif', np.float32(0.99261194))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Negatif', np.float32(0.99261194))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Negatif', np.float32(0.99261194))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Negatif', np.float32(0.99261194))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Negatif', np.float32(0.99261194))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Negatif', np.float32(0.99261194))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Negatif', np.float32(0.99261194))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Negatif', np.float32(0.99261194))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Pozitif', np.float32(0.98581296))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Pozitif', np.float32(0.98581296))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Pozitif', np.float32(0.98581296))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Pozitif', np.float32(0.993491))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Pozitif', np.float32(0.993491))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "('Pozitif', np.float32(0.993491))"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "Negatif"
+    },
+    {
+        "tarih": "2025-07-16",
+        "duygu": "Negatif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Negatif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Negatif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Negatif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Negatif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Pozitif"
+    },
+    {
+        "tarih": "2025-07-26",
+        "duygu": "Negatif"
+    }
+]
