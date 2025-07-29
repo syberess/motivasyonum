@@ -47,8 +47,7 @@ Tarayıcıda http://localhost:8501 adresinde uygulama açılacaktır.
 
 ## 📸 Ekran Görüntüleri
 
-### Ana Sayfa
-(C:\Users\monster\Desktop\motivasyonum\screenshots\image1.png) (C:\Users\monster\Desktop\motivasyonum\screenshots\image2.png)
+[(Ana Sayfa)(C:\Users\monster\Desktop\motivasyonum\screenshots\image1.png) (C:\Users\monster\Desktop\motivasyonum\screenshots\image2.png)]
 
 ### Günün Hadisi
 (C:\Users\monster\Desktop\motivasyonum\screenshots\image3.png)
